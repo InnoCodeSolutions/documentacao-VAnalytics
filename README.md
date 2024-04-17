@@ -1,5 +1,5 @@
 
-<img  src="./docs/Analystics.png" alt="banner_VAnalytics" />
+<img  src="https://github.com/InnoCodeSolutions/documentacao-VAnalytics/blob/main/Analystics.png" alt="banner_VAnalytics" />
 
   
 
