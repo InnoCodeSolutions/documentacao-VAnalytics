@@ -4,20 +4,20 @@
 
   
 
-<h1  align="center">Sprint 1: 04/09/2023 a 28/09/2023</h1>
+<h1  align="center">Sprint 1: 27/03/2024 a 18/04/2024</h1>
 
 <p  align="center">
 <a  href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
 <a  href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
 <a  href="#sprint_backlog">Sprint Backlog 1</a> &nbsp |&nbsp &nbsp
 <a  href="#wireframe">Wireframe</a> &nbsp |&nbsp &nbsp
-<a  href="#kanban">KanBan</a> &nbsp |&nbsp &nbsp 
+<a  href="#Trello">Trello</a> &nbsp |&nbsp &nbsp 
 <a  href="#metricas">Métricas do time</a> &nbsp |&nbsp &nbsp 
 <a  href="#sprint_retrospectiva">Sprint Retrospectiva</a>
 </p>
 
 <p align="center">
-<a href="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions.git">Voltar para Documentação<a>
+<a href="https://github.com/InnoCodeSolutions/documentacao-VAnalytics?tab=readme-ov-file">Voltar para Documentação<a>
 <br>
 </p>
   
@@ -29,7 +29,7 @@
 <br>
 </div>
 
-<p>Para início do desenvolvimento de um site para ** plataforma educacional sobre o Scrum **, durante esta primeira sprint, nossa equipe concentrou seus esforços na criação do Wireframe, que servirá como base para o layout e a estrutura do site.</p>
+<p>Para início do desenvolvimento de um site para uma plataforma Web para realizar o gerenciamento de projetos da área de Geoprocessamento., durante esta primeira sprint, nossa equipe concentrou seus esforços na criação do Wireframe e Front, que servirá como base para o layout e a estrutura do site.</p>
 
 <br>  
 
@@ -37,7 +37,7 @@
 
 ## :dart: Objetivos da Sprint
 
-Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por essa sprint são:
+Os requisitos da cliente abrangidos por essa sprint são:
 
   
 
@@ -45,13 +45,13 @@ Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por 
 
 - :heavy_check_mark: **2:** Desenvolvimento da identidade visual da empresa;
 
-- :heavy_check_mark: **3:** Definição e criação do layout (Wireframe);
+- :heavy_check_mark: **3:** Definição e criação do Wireframe de cada função (Gestor,Editor e Revisor);
 
-- :heavy_check_mark: **4:** Elaboração da Documentação e organização no GitHub
+- :heavy_check_mark: **4:** Aplicação do Wireframe no Front utilizando Typescript e React;
 
-- :heavy_check_mark: **5:** Apresentação
+- :heavy_check_mark: **5:** Funcionalidade Simples e compatibilidade com QGIS e Postgre;
 
-- :heavy_check_mark: **6:** Definição de cores para o projeto
+- :heavy_check_mark: **6:** Apresentação;
 
 
 <br>
