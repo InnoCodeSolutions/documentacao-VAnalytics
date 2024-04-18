@@ -4,7 +4,7 @@
 
   
 
-<h1  align="center">Sprint 1: 27/03/2024 a 18/04/2024</h1>
+<h1  align="center">Sprint 1: 21/03/2024 a 18/04/2024</h1>
 
 <p  align="center">
 <a  href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
@@ -49,7 +49,7 @@ Os requisitos da cliente abrangidos por essa sprint são:
 
 - :heavy_check_mark: **4:** Aplicação do Wireframe no Front utilizando Typescript e React;
 
-- :heavy_check_mark: **5:** Funcionalidade Simples e compatibilidade com QGIS e Postgre;
+- :heavy_check_mark: **5:** Funcionalidade Simples e compatibilidade com QGIS;
 
 - :heavy_check_mark: **6:** Apresentação;
 
@@ -62,7 +62,7 @@ Os requisitos da cliente abrangidos por essa sprint são:
 
 Para entregas da sprint, tivemos os artefatos SCRUM validados, como Backlog do Produto, Backlog da Sprint 01, através de comunicação direta entre o P.O. e o cliente. 
 
-Para extrair e entender os desejos do cliente, foi construído um protótipo inicial no Figma, criando a identidade visual e design do sistema e apresentando para validação com o cliente.
+Para extrair e entender os desejos do cliente, foi construído um protótipo inicial no Figma, criando a identidade visual e design do sistema,logo em seguida foi feito o Front de cada Função exigida pelo cliente.
 
   
 
@@ -78,11 +78,11 @@ Definição dos cargos de PO (Product Owner) e Scrum Master, assim como definiç
 
   
 
-Criação do nome, logo e slogan da equipe, redes sociais e GitHub.
+Criação do nome, logo e identidade visual.
 
   
 
-### 4: Definição e criação do layout (Wireframe)
+### 4: Definição de Wireframe no Front utilizando Figma, Typescript e React.
 
   
 
@@ -91,7 +91,7 @@ Estabelecimento da estrutura do site e desenvolvimento do wireframe.
 
 ### 5: Definição de cores para o projeto
 
-Seleção das cores a serem utilizadas no projeto. 
+Organização do Git-hub para a posterior apresentação. 
 
 
 ### 6: Apresentação
